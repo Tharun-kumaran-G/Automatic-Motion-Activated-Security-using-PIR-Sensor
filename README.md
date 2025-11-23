@@ -28,7 +28,7 @@ Circuit Diagram:
 Step 1: Set Up the Tinkercad Environment
 1.	Log in to Tinkercad: Open https://www.tinkercad.com in your browser and log in to your account.
 2.	Create a New Circuit: In the Tinkercad dashboard, click on “Circuits” and then select “Create New Circuit” to open a new simulation workspace.
-3.	
+
 Step 2: Add Components to the Circuit
 1.	Arduino Uno: Drag and drop the Arduino Uno R3 board from the components panel into your workspace.
 2.	PIR Sensor: Search for the PIR sensor in the components panel and drag it into the workspace.
